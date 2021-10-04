@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2fdd756-4b08-4c68-ab89-07a8a2561b12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/php-crash-course-2020" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="cbe4d52b-6761-447d-b2b4-fa58f54c0f5f" name="MAMP" port="8888" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1lWEeT6rp2nvYufIqbI1cvVbsYj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.29958677" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/php-project/library" />
+      <recent name="$PROJECT_DIR$/php-project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.practice.php">
+    <configuration name="practice.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php-practice/practice.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="practice.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/practice.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="04_strings.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php-crash-course-2020/04_strings.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="practice.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/practice.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="pravtice.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/pravtice.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.practice.php" />
+        <item itemvalue="Node.js.practice.js" />
+        <item itemvalue="JavaScript Debug.practice.html" />
+        <item itemvalue="PHP Script.pravtice.php" />
+        <item itemvalue="PHP Script.04_strings.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2fdd756-4b08-4c68-ab89-07a8a2561b12" name="Default Changelist" comment="" />
+      <created>1607704541826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607704541826</updated>
+      <workItem from="1607704542843" duration="2291000" />
+      <workItem from="1607778708332" duration="205000" />
+      <workItem from="1608065030660" duration="4410000" />
+      <workItem from="1608123023570" duration="800000" />
+      <workItem from="1608324882976" duration="15157000" />
+      <workItem from="1608494502351" duration="693000" />
+      <workItem from="1611607054970" duration="2328000" />
+      <workItem from="1611613315660" duration="915000" />
+      <workItem from="1611619292863" duration="53000" />
+      <workItem from="1611700755537" duration="1111000" />
+      <workItem from="1611702124593" duration="885000" />
+      <workItem from="1611869963584" duration="321000" />
+      <workItem from="1611870352440" duration="269000" />
+      <workItem from="1611870851065" duration="340000" />
+      <workItem from="1611871240734" duration="597000" />
+      <workItem from="1611871853100" duration="424000" />
+      <workItem from="1611872344146" duration="146000" />
+      <workItem from="1611872520959" duration="70000" />
+      <workItem from="1611872614320" duration="3197000" />
+      <workItem from="1612302310963" duration="3196000" />
+      <workItem from="1612347116896" duration="6000" />
+      <workItem from="1612474578909" duration="887000" />
+      <workItem from="1612726364314" duration="1405000" />
+      <workItem from="1632255558138" duration="2025000" />
+      <workItem from="1632324316615" duration="5591000" />
+      <workItem from="1632427885618" duration="3467000" />
+      <workItem from="1632499616436" duration="698000" />
+      <workItem from="1632946315775" duration="3078000" />
+      <workItem from="1633099538322" duration="2227000" />
+      <workItem from="1633249230337" duration="154000" />
+      <workItem from="1633249407771" duration="975000" />
+      <workItem from="1633259082528" duration="12185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2498" height="422" key="GridCell.Tab.0.bottom" timestamp="1632344468779">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2498" height="422" key="GridCell.Tab.0.bottom/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632344468779" />
+    <state width="2498" height="422" key="GridCell.Tab.0.center" timestamp="1632344468779">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2498" height="422" key="GridCell.Tab.0.center/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632344468779" />
+    <state width="2498" height="422" key="GridCell.Tab.0.left" timestamp="1632344468779">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2498" height="422" key="GridCell.Tab.0.left/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632344468779" />
+    <state width="2498" height="422" key="GridCell.Tab.0.right" timestamp="1632344468779">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2498" height="422" key="GridCell.Tab.0.right/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632344468779" />
+    <state width="2498" height="422" key="GridCell.Tab.1.bottom" timestamp="1632344468780">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2498" height="422" key="GridCell.Tab.1.bottom/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632344468780" />
+    <state width="2498" height="422" key="GridCell.Tab.1.center" timestamp="1632344468780">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2498" height="422" key="GridCell.Tab.1.center/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632344468780" />
+    <state width="2498" height="422" key="GridCell.Tab.1.left" timestamp="1632344468780">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2498" height="422" key="GridCell.Tab.1.left/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632344468780" />
+    <state width="2498" height="422" key="GridCell.Tab.1.right" timestamp="1632344468780">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2498" height="422" key="GridCell.Tab.1.right/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632344468780" />
+    <state width="2496" height="538" key="GridCell.Tab.2.bottom" timestamp="1632302882972">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2496" height="538" key="GridCell.Tab.2.bottom/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632302882972" />
+    <state width="2496" height="538" key="GridCell.Tab.2.center" timestamp="1632302882972">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2496" height="538" key="GridCell.Tab.2.center/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632302882972" />
+    <state width="2496" height="538" key="GridCell.Tab.2.left" timestamp="1632302882971">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2496" height="538" key="GridCell.Tab.2.left/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632302882971" />
+    <state width="2496" height="538" key="GridCell.Tab.2.right" timestamp="1632302882972">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2496" height="538" key="GridCell.Tab.2.right/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632302882972" />
+    <state width="2496" height="538" key="GridCell.Tab.3.bottom" timestamp="1632302882973">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2496" height="538" key="GridCell.Tab.3.bottom/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632302882973" />
+    <state width="2496" height="538" key="GridCell.Tab.3.center" timestamp="1632302882973">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2496" height="538" key="GridCell.Tab.3.center/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632302882973" />
+    <state width="2496" height="538" key="GridCell.Tab.3.left" timestamp="1632302882972">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2496" height="538" key="GridCell.Tab.3.left/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632302882972" />
+    <state width="2496" height="538" key="GridCell.Tab.3.right" timestamp="1632302882973">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state width="2496" height="538" key="GridCell.Tab.3.right/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632302882973" />
+    <state x="2712" y="323" key="NewPhpFileDialog" timestamp="1633265486684">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state x="2712" y="323" key="NewPhpFileDialog/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1633265486684" />
+    <state x="2295" y="90" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1632257018540">
+      <screen x="1680" y="-261" width="2560" height="1490" />
+    </state>
+    <state x="2295" y="90" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1680.-261.2560.1490/0.25.1680.1025@1680.-261.2560.1490" timestamp="1632257018540" />
+  </component>
+</project>
