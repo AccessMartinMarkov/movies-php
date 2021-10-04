@@ -1,7 +1,14 @@
 <?php
 
+  $pdo = new PDO('mysql:dbname=people;host=localhost;', 'root', null);
+  $query = $pdo->query('SELECT * FROM people');
+  $people = $query->fetchAll();
+
+
+//  var_dump($people);die();
+
   require 'library/functions.php';
-  $people = getPeople();
+//  $people = getPeople();
 
 
 ?>
