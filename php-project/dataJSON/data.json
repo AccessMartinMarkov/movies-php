@@ -17,5 +17,10 @@
         "name": "Kia",
         "sex": "F",
         "age": 25
+    },
+    {
+        "name": "admin",
+        "sex": "m",
+        "age": "14"
     }
 ]

@@ -1,10 +1,17 @@
 <?php
 
-  function getPeople() {
-    $fileJson = file_get_contents('dataJSON/data.json');
-    $data = json_decode($fileJson, true);
+  function getPeople($limit = null) {
+    $config = require 'library/config.php';
 
-    return $data;
+    $pdo = new PDO($config['db_src'], $config['db_username'], $config['db_password']);
+    if($limit) {
+      $query = $pdo->query('SELECT * FROM people LIMIT '.$limit);
+    } else {
+      $query = $pdo->query('SELECT * FROM people');
+    }
+    $people = $query->fetchAll();
+
+    return $people;
   }
 
   function savePeople(array $person_to_save) {
