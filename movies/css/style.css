@@ -1,0 +1,45 @@
+html, body {
+    height:100%;
+    margin:0;
+}
+
+.wrapper {
+    height: 100%;
+}
+
+.nav {
+    height: auto;
+}
+
+.content {
+    max-height: 100%;
+    overflow-y: auto;
+    flex-grow: 1;
+}
+
+.content-body {
+    padding: 100px 0px;
+}
+
+.content-title {
+    text-align: center;
+    margin-top: 75px;
+}
+
+.content-title h1 {
+    margin: 0px;
+}
+
+.footer {
+    height: auto;
+}
+
+.footer div {
+    align-self: center;
+    height: 100%;
+    display: block;
+}
+
+.card {
+    width: 18rem;
+}
